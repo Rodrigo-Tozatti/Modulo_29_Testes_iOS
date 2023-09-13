@@ -58,9 +58,9 @@ exports.config = {
         "ppium:platformVersion": "15.5",
         "appium:orientation\"": "PORTRAIT",
         "appium:automationName": "XCUITest",
-        "appium:app": "/Users/rodrigotozatti/Library/Mobile Documents/com~apple~CloudDocs/Repositorio - Macbook/Modulo_29_Testes_iOS/app/loja-ebac.app",
+        "appium:app": "/Users/rodrigotozatti/Desktop/app/LoginExample.app",
         "appium:noReset": "true"
-    }],
+      }],
 
     //
     // ===================
