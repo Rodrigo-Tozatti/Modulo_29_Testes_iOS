@@ -53,12 +53,12 @@ exports.config = {
     // https://saucelabs.com/platform/platform-configurator
     //
     capabilities: [{
+        "app": "/Users/rodrigotozatti/Repositorio - Visual Studio/Modulo_29_Testes_iOS/app/loja-ebac.app",
         "platformName": "iOS",
-        "appium:deviceName": "iPhone 12",
-        "appium:plataformVersion": "15.5",
-        "appium:orientation": "PORTRAIT",
-        "appium:automationName": "XCUITest",
-        "appium:app": "/Users/rodrigotozatti/Library/Mobile Documents/com~apple~CloudDocs/Repositorio - Macbook/Modulo_29_Testes_iOS/app/loja-ebac.app"
+        "platformVersion": "15.5",
+        "deviceName": "iPhone 12",
+        "udid": "9E766BDC-AFD9-4A14-B197-DCB43AC00FC5",
+        "automationName": "XCUITest"
       }],
 
     //
